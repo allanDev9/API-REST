@@ -1,0 +1,14 @@
+{
+  "name": "conexi-n-de-una-api",
+  "version": "1.0.0",
+  "description": "Conexión de api utilizando Async, Await y Fetch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
