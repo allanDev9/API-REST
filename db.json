@@ -1,52 +1,56 @@
 {
-    "agentes": [
-        {
-            "id":1,
-            "nombre": "Jett",
-            "Tipo": "Duelista"
-        },
-        {
-            "id":2,
-            "nombre": "Viper",
-            "Tipo": "Controladora"
-        },
-        {
-            "id":3,
-            "nombre": "Reyna",
-            "Tipo": "Duelista"
-        },
-        {
-            "id":4,
-            "nombre": "Omen",
-            "Tipo": "Iniciador"
-        },
-        {
-            "id":5,
-            "nombre": "Sage",
-            "Tipo": "Controladora"
-        },
-        {
-            "id":6,
-            "nombre": "Raze",
-            "Tipo": "Duelista"
-        }
-    ],
-    "Ataques": [
-        {
-            "id": 1,
-            "Tipo": "Humos"
-        },
-        {
-            "id": 2,
-            "Tipo": "Iniciador"
-        },
-        {
-            "id": 3,
-            "Tipo": "Centinela"
-        },
-        {
-            "id": 4,
-            "Tipo": "Smurf"
-        }
-    ]
+  "agentes": [
+    {
+      "id": 1,
+      "nombre": "Jett",
+      "Tipo": "Duelista"
+    },
+    {
+      "nombre": "Brinston",
+      "Tipo": "Controlador",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Reyna",
+      "Tipo": "Duelista"
+    },
+    {
+      "id": 4,
+      "nombre": "Omen",
+      "Tipo": "Iniciador"
+    },
+    {
+      "id": 5,
+      "nombre": "Sage",
+      "Tipo": "Controladora"
+    },
+    {
+      "id": 6,
+      "nombre": "Raze",
+      "Tipo": "Duelista"
+    }
+  ],
+  "Ataques": [
+    {
+      "id": 1,
+      "Tipo": "Humos"
+    },
+    {
+      "id": 2,
+      "Tipo": "Iniciador"
+    },
+    {
+      "id": 3,
+      "Tipo": "Centinela"
+    },
+    {
+      "id": 4,
+      "Tipo": "Smurf"
+    },
+    {
+      "id": 5,
+      "Tipo": "agresivo"
+    }
+  ]
 }
