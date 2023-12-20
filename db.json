@@ -2,32 +2,32 @@
   "agentes": [
     {
       "id": 1,
-      "nombre": "Jett",
+      "Nombre": "Jett",
       "Tipo": "Duelista"
     },
     {
-      "nombre": "Brinston",
+      "Nombre": "Brinston",
       "Tipo": "Controlador",
       "id": 2
     },
     {
       "id": 3,
-      "nombre": "Reyna",
+      "Nombre": "Reyna",
       "Tipo": "Duelista"
     },
     {
       "id": 4,
-      "nombre": "Omen",
+      "Nombre": "Omen",
       "Tipo": "Iniciador"
     },
     {
       "id": 5,
-      "nombre": "Sage",
+      "Nombre": "Sage",
       "Tipo": "Controladora"
     },
     {
       "id": 6,
-      "nombre": "Raze",
+      "Nombre": "Raze",
       "Tipo": "Duelista"
     }
   ],
